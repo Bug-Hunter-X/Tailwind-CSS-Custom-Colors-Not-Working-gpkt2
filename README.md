@@ -1,0 +1,3 @@
+# Tailwind CSS Custom Colors Not Working
+
+This repository demonstrates a common issue when working with custom colors in Tailwind CSS.  The custom color is defined in `tailwind.config.js`, but it doesn't apply to elements in the HTML. This is usually due to a missing or incorrect configuration or a problem with the build process. This repository provides a demonstration and solution for this issue.
